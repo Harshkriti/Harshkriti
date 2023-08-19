@@ -32,7 +32,7 @@ I invite you to connect for discussions on analytics, statistics, machine learni
 
 ### 📫 Let's connect!
 Feel free to reach out to me if you have questions for me or if you would like to collaborate on any project.
-- [Email](harshkriti@gmail.com)
+- [Email](mailto:harshkriti@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/harshkriti-kaur-sethi/)
 
 
