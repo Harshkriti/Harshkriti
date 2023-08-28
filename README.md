@@ -18,7 +18,7 @@ I invite you to connect for discussions on analytics, statistics, machine learni
 
 - Data Visualization: Tableau, Looker Studio(Data Studio), Python (Seaborn and Matplotlib).
 
-- Machine Learning Modeling: Classification, Regression, Clusterization, Time Series.
+- Machine Learning Modeling: Classification, Regression, Clustering, Time Series.
 
 - WebScrapping: Beautiful Soup, Selenium.
 
